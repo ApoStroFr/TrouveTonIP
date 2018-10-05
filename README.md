@@ -1,2 +1,2 @@
 # TrouveTonIP
-Voici le readme
+Voici le readme du programme
